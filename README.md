@@ -1,3 +1,6 @@
+## Recommendation
+Follow the docker image setup provided by the official docs: https://nextjs.org/docs/app/building-your-application/deploying#docker-image. Remember to add this for the standalone version: https://nextjs.org/docs/app/api-reference/next-config-js/output#automatically-copying-traced-files
+
 # Next.js Dockerfile
 Copy the `Dockerfile` to the root of your project.
 
